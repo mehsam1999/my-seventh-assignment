@@ -1,0 +1,103 @@
+[
+  {
+    "player_id": 1,
+    "name": "Virat Kohli",
+    "country": "India",
+    "image": "https://i.ibb.co.com/sJszksc/king-kohli.jpg",
+    "role": "Batsman",
+    "batting_type": "Right-hand bat",
+    "bowling_type": "Right-arm medium",
+    "bidding_price": "5000000",
+    "rating": 9.8
+  },
+  {
+    "player_id": 2,
+    "name": "Joe Root",
+    "country": "England",
+    "image": "https://i.ibb.co.com/xzPLSYB/skysports-joe-root-england-5057805.jpg",
+    "role": "Batsman",
+    "batting_type": "Right-hand bat",
+    "bowling_type": "Right-arm off-break",
+    "bidding_price": "1800000",
+    "rating": 8.9
+  },
+  {
+    "player_id": 3,
+    "name": "Kane Williamson",
+    "country": "New Zealand",
+    "image": "https://i.ibb.co.com/L529JdT/kane-williamson.webp",
+    "role": "Batsman",
+    "batting_type": "Right-hand bat",
+    "bowling_type": "Right-arm off-break",
+    "bidding_price": "2100000",
+    "rating": 9.2
+  },
+  {
+    "player_id": 4,
+    "name": "Pat Cummins",
+    "country": "Australia",
+    "image": "https://i.ibb.co.com/fFND6Wq/Pat-Cummins.jpg",
+    "role": "Bowler",
+    "batting_type": "Right-hand bat",
+    "bowling_type": "Right-arm fast",
+    "bidding_price": "3200000",
+    "rating": 8.8
+  },
+  {
+    "player_id": 5,
+    "name": "Mustafizur Rahman",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/FxWG3fY/cutter.jpg",
+    "role": "Bowler",
+    "batting_type": "Left hand Bat",
+    "bowling_type": "Left arm Fast medium",
+    "bidding_price": "3000000",
+    "rating": 8.3
+  },
+  {
+    "player_id": 6,
+    "name": "Ben Stokes",
+    "country": "England",
+    "image": "https://i.ibb.co.com/Zd07M3J/strokes.jpg",
+    "role": "All-rounder",
+    "batting_type": "Left-hand bat",
+    "bowling_type": "Right-arm fast-medium",
+    "bidding_price": "2500000",
+    "rating": 9.1
+  },
+  {
+    "player_id": 7,
+    "name": "Rashid Khan",
+    "country": "Afghanistan",
+    "image": "https://i.ibb.co.com/sQy0kSc/rashid-khan.jpg",
+    "role": "Bowler",
+    "batting_type": "Right-hand bat",
+    "bowling_type": "Right-arm leg-break",
+    "bidding_price": "2000000",
+    "rating": 8.7
+  },
+  {
+    "player_id": 8,
+    "name": "Quinton de Kock",
+    "country": "South Africa",
+    "image": "https://i.ibb.co.com/mHx23kp/QDK.jpg",
+    "role": "Wicketkeeper-Batsman",
+    "batting_type": "Left-hand bat",
+    "bowling_type": "N/A",
+    "bidding_price": "1900000",
+    "rating": 8.5
+  },
+  {
+    "player_id": 9,
+    "name": "Tawhid Hridoy",
+    "country": "Bangladesh",
+    "image": "https://i.ibb.co.com/SXLw9C3/Tawhid-Hridoy.jpg",
+    "role": "Batsman",
+    "batting_type": "Right-hand bat",
+    "bowling_type": "Right-arm leg-break",
+    "bidding_price": "1500000",
+    "rating": 7.5
+  }
+]
+
+  
